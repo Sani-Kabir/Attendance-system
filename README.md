@@ -24,16 +24,17 @@ Run in any computer with Python installed
 
 Features
 
-✔ Mark attendance instantly
-✔ Beautiful and responsive UI
-✔ Displays attendance table dynamically
-✔ Works with a simple API
-✔ Beginner-friendly but still professional
+ Mark attendance instantly
+ Beautiful and responsive UI
+ Displays attendance table dynamically
+ Works with a simple API
 
-🛠️ Technologies Used
+
+ Technologies Used
 Component	Technology
 Backend API	Flask (Python)
 Frontend	HTML + CSS
 Logic/Interaction	JavaScript (Fetch API)
 
 Database	JSON file (attendance.json)
+
