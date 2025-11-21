@@ -22,7 +22,7 @@ Store all data in a JSON file
 
 Run in any computer with Python installed
 
-🚀 Features
+Features
 
 ✔ Mark attendance instantly
 ✔ Beautiful and responsive UI
@@ -35,4 +35,5 @@ Component	Technology
 Backend API	Flask (Python)
 Frontend	HTML + CSS
 Logic/Interaction	JavaScript (Fetch API)
+
 Database	JSON file (attendance.json)
