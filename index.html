@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Attendance System</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Student Attendance System</h1>
+
+        <div class="form-box">
+            <input type="text" id="studentName" placeholder="Enter student name">
+            <button onclick="checkIn()">Check In</button>
+        </div>
+
+        <h2>Attendance Records</h2>
+        <table id="attendanceTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Student Name</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will load here -->
+            </tbody>
+        </table>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
